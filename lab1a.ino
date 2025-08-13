@@ -13,3 +13,16 @@ void loop() {
     digitalWrite(led[i], LOW);
     delay(500);          
   }
+  for (int i = 4; i>=0; i--) {
+    digitalWrite(led[i], HIGH);
+    delay(500);          
+    digitalWrite(led[i], LOW);
+    delay(500);          
+  }
+  for (int i = 0; i<5; i+=2) {
+    digitalWrite(led[i], HIGH);
+    delay(500);          
+    digitalWrite(led[i], LOW);
+    delay(500);          
+  }
+}
