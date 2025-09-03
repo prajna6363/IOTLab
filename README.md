@@ -3,3 +3,6 @@ Lab1a Image
 
 Lab1d
 <img width="1600" height="680" alt="Surprising Sango-Jarv (1)" src="https://github.com/user-attachments/assets/1b65a71a-d969-4f4d-92cd-31dc8603b8e2" />
+
+Sensor
+<img width="1600" height="668" alt="Super Duup" src="https://github.com/user-attachments/assets/3dc953e0-cc06-4330-be9a-5ed1e619b1d1" />
